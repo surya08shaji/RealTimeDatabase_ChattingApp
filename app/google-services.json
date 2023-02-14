@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "768349378864",
+    "firebase_url": "https://realtimedb-88b19-default-rtdb.firebaseio.com",
+    "project_id": "realtimedb-88b19",
+    "storage_bucket": "realtimedb-88b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768349378864:android:adec305f51a0757c7f50f5",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768349378864-u0p885stpkeafau03hkb4b3vh3oqj0d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedb",
+            "certificate_hash": "d893e6c5e085f911cd1998d4b0f26896cbb6ddc3"
+          }
+        },
+        {
+          "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzKgQikarR5VE8QT4uXYujdq0h1lGpQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768349378864:android:f88d32d26d51856a7f50f5",
+        "android_client_info": {
+          "package_name": "com.example.realtimedbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768349378864-vkb55tnf17h4evkh6krlrfca8b69a1t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedbchat",
+            "certificate_hash": "d893e6c5e085f911cd1998d4b0f26896cbb6ddc3"
+          }
+        },
+        {
+          "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzKgQikarR5VE8QT4uXYujdq0h1lGpQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768349378864:android:a4fccd3e0536d4ea7f50f5",
+        "android_client_info": {
+          "package_name": "com.example.rtdatabasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768349378864-5iupl9p7gmfl808n9a9tbmhml2hva2oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rtdatabasechat",
+            "certificate_hash": "d893e6c5e085f911cd1998d4b0f26896cbb6ddc3"
+          }
+        },
+        {
+          "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzKgQikarR5VE8QT4uXYujdq0h1lGpQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768349378864:android:d920e071e1eea8487f50f5",
+        "android_client_info": {
+          "package_name": "com.example.rtdatabasechatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768349378864-rkcpj7opgoo9heb4inkrb6isubg45gdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rtdatabasechatroom",
+            "certificate_hash": "d893e6c5e085f911cd1998d4b0f26896cbb6ddc3"
+          }
+        },
+        {
+          "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzKgQikarR5VE8QT4uXYujdq0h1lGpQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768349378864:android:96f78459e806125a7f50f5",
+        "android_client_info": {
+          "package_name": "com.example.rtdbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzKgQikarR5VE8QT4uXYujdq0h1lGpQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768349378864-slvhhiqeg6gnp83b7t03vcp059se673l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

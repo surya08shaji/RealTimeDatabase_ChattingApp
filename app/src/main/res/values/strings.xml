@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RTDataBaseChat</string>
+    <string name="sent">sent</string>
+    <string name="choose_theme_text">Choose Theme</string>
+</resources>
